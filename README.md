@@ -2,7 +2,7 @@
 
 [Slides from my presentation at Front End Party on Aug 25, 2016](https://speakerdeck.com/siakaramalegos/getting-started-with-react)
 
-![alt slide preview](https://github.com/siakaramalegos/react-for-beginners/blob/master/preview.png)
+![alt slide preview](https://github.com/siakaramalegos/react-for-beginners/blob/master/slide_preview.png)
 
 ## Resources
 
