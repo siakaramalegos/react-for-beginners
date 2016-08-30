@@ -1,7 +1,8 @@
 # React for Beginners
 
-[Slides from my presentation at Front End Party on Aug 25, 2016](https://speakerdeck.com/siakaramalegos/getting-started-with-react)
+Click [here](https://speakerdeck.com/siakaramalegos/getting-started-with-react) to see all the slides from my presentation at Front End Party on Aug 25, 2016!
 
+*Slide Preview* - **The Ups and Downs of Learning React and Everything You Need to Do React...**
 ![alt slide preview](https://github.com/siakaramalegos/react-for-beginners/blob/master/slide_preview.png)
 
 ## Resources
